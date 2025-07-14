@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey There!<br>I am Gurvir Singh, pursuing BTech CSE. I like programming random things and watching anime while doing it.
+Hey There!<br>I am Gurvir Singh, pursuing BTech CSE. I aspire to learn more about Computers. I like programming random things and watching anime while doing it. 
 
 
 ## 🌐 Socials:
